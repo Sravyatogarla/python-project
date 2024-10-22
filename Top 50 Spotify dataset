@@ -1,1 +1,8 @@
+#PROBLEM STATEMENT-1: Analyzing Spotify Dataset
+
+import pandas as pd
+
+#1 Load the dataset
+df = pd.read_csv("top50spotify.csv")
+df
 
