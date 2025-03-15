@@ -7,18 +7,28 @@ bash
 Copy
 Edit
 /Python_Project/
-│── README.md                # Project documentation
-│── .gitignore               # Files to ignore in version control
+│── README.md                
+# Project documentation
+│── .gitignore             
+# Files to ignore in version control
 │── Dataset/
-│   ├── top50spotify.csv     # Dataset of 50 Spotify songs
-│   ├── cereal.csv           # Dataset of cereals and manufacturers
+│   ├── top50spotify.csv   
+# Dataset of 50 Spotify songs
+│   ├── cereal.csv         
+# Dataset of cereals and manufacturers
 │── Notebooks/
-│   ├── Problem_1_Spotify.ipynb       # Analysis of Spotify songs dataset
-│   ├── Problem_2_Pandas_Series.ipynb # Creating and manipulating Pandas series
-│   ├── Problem_3_Multiples_7_17.ipynb# Generating series with multiples
-│   ├── Problem_4_Cereal_Analysis.ipynb # Cereal dataset visualization
-│── requirements.txt         # Required Python libraries
-│── LICENSE                  # License details
+│   ├── Problem_1_Spotify.ipynb      
+# Analysis of Spotify songs dataset
+│   ├── Problem_2_Pandas_Series.ipynb 
+# Creating and manipulating Pandas series
+│   ├── Problem_3_Multiples_7_17.ipynb
+# Generating series with multiples
+│   ├── Problem_4_Cereal_Analysis.ipynb 
+# Cereal dataset visualization
+│── requirements.txt        
+# Required Python libraries
+│── LICENSE                  
+# License details
 Datasets
 1. Spotify Songs Dataset (top50spotify.csv)
 Description: Contains 50 top songs from Spotify with multiple attributes.
