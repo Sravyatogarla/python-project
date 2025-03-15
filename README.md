@@ -8,9 +8,7 @@ Copy
 Edit
 /Python_Project/
 │── README.md                
-# Project documentation
 │── .gitignore             
-# Files to ignore in version control
 │── Dataset/
 │   ├── top50spotify.csv   
 # Dataset of 50 Spotify songs
