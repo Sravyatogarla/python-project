@@ -7,30 +7,37 @@ bash
 Copy
 Edit
 /Python_Project/
-│── README.md                
-│── .gitignore             
+
+│── README.md  
+
+│── .gitignore 
+
 │── Dataset/
-│   ├── top50spotify.csv   
-# Dataset of 50 Spotify songs
-│   ├── cereal.csv         
-# Dataset of cereals and manufacturers
+
+│   ├── top50spotify.csv # Dataset of 50 Spotify songs
+
+│   ├── cereal.csv    # Dataset of cereals and manufacturers
+
 │── Notebooks/
-│   ├── Problem_1_Spotify.ipynb      
-# Analysis of Spotify songs dataset
-│   ├── Problem_2_Pandas_Series.ipynb 
-# Creating and manipulating Pandas series
-│   ├── Problem_3_Multiples_7_17.ipynb
-# Generating series with multiples
-│   ├── Problem_4_Cereal_Analysis.ipynb 
-# Cereal dataset visualization
-│── requirements.txt        
-# Required Python libraries
-│── LICENSE                  
-# License details
+
+│   ├── Problem_1_Spotify.ipynb   # Analysis of Spotify songs dataset
+
+│   ├── Problem_2_Pandas_Series.ipynb # Creating and manipulating Pandas series
+
+│   ├── Problem_3_Multiples_7_17.ipynb # Generating series with multiples
+
+│   ├── Problem_4_Cereal_Analysis.ipynb  # Cereal dataset visualization
+
+│── requirements.txt        # Required Python libraries
+
+│── LICENSE  # License details
+
 Datasets
 1. Spotify Songs Dataset (top50spotify.csv)
 Description: Contains 50 top songs from Spotify with multiple attributes.
+
 Columns:
+
 SerialNo. - Serial number of the song
 TrackName - Name of the track
 ArtistName - Name of the artist
@@ -38,8 +45,9 @@ Genre - Genre of the song
 Energy - Energy index of the song
 Length - Length of the song
 Popularity - Popularity score
-2. Cereal Dataset (cereal.csv)
+3. Cereal Dataset (cereal.csv)
 Description: Contains details of various cereal brands and their manufacturers.
+
 Columns:
 name - Brand name of the cereal
 MFR - Manufacturer of the cereal
