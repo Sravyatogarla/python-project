@@ -53,9 +53,10 @@ name - Brand name of the cereal
 MFR - Manufacturer of the cereal
 rating - Quality rating of the cereal
 Notebook Descriptions
+
 1. Problem 1 - Spotify Songs Analysis (Problem_1_Spotify.ipynb)
 2. Objective: Analyze Spotify's top 50 songs dataset to extract insights.
-3. 
+
 Tasks Performed:
 
 ✔ Import the dataset and drop unnecessary columns
@@ -67,7 +68,7 @@ Tasks Performed:
 ✔ Identify the artist with the most tracks in a single genre
 
 3. Problem 2 - Pandas Series (Problem_2_Pandas_Series.ipynb)
-4. 
+ 
 Objective: Create and manipulate Pandas Series from a dictionary.
 
 Tasks Performed:
