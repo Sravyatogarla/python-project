@@ -1,4 +1,4 @@
-#Python Project
+**Python Project**
 
 This repository contains multiple Python exercises focusing on data analysis, Pandas, and Jupyter notebooks. Each problem statement is solved in a separate Jupyter notebook, along with real-world datasets.
 
